@@ -1,0 +1,28 @@
+name: Unschooled Media
+favicon: null
+layout_spectrum: 0.16878407541662455
+typography_spectrum: 0.12915138946846128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.012149699032306671
+  lightness: 0.9798052655532956
+  saturation: 0.8406030980404466
+  rhythmicContrast: 0.4003908708691597
+purpose: []
