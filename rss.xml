@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Unschooled Media]]></title>
+        <description><![CDATA[Unschooled Media]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 14:03:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The big, bad quality myth]]></title>
+            <description><![CDATA[<article><h1>The big, bad quality myth</h1><p>Why you shouldn't rely on how skilled you are or how good your stuff is, to succeed.</p></article>]]></description>
+            <link>undefinedthe-big-bad-quality-myth/index.html</link>
+            <guid isPermaLink="false">69d81534-cfb4-4370-8731-45586e997516</guid>
+            <pubDate>Fri, 29 Jan 2016 14:03:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
